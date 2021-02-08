@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🎓 I'm currently studying at Karadeniz Technical University Management Information Systems.
-- 🔭 I’m currently working on Python.
+- 🔭 I'm currently working to become a Full Stack Developer.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 💬 Ask me about HTML, CSS, JavaScript, PHP, PHP Moodle, PHP Mailer, MySQL, SQL Server, Python, Flask, Tkinter, WordPress, LimeSurvey, Moodle, OpenCart, Bootstrap, TypeScript, React.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
