@@ -26,7 +26,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-333333?style=flat&logo=mssqlserver)
+  ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-333333?style=flat&logo=Microsoft-SQL-Server)
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
