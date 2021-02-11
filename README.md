@@ -40,6 +40,7 @@
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 - 🖥 &nbsp;
   ![Inkscape](https://img.shields.io/badge/-Inkscape-333333?style=flat&logo=inkscape)
+  ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)
 
  <br/>
 
