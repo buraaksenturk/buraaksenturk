@@ -30,6 +30,7 @@
   ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-333333?style=flat&logo=Microsoft-SQL-Server)
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=643995)
