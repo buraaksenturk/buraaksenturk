@@ -31,7 +31,7 @@
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
-  [![CodePen](https://img.shields.io/badge/-CodePen-333333?style=flat&logo=codepen)](https://codepen.io/Buraksenturk)
+  ![Notion](https://img.shields.io/badge/-CodePen-333333?style=flat&logo=codepen)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=643995)
@@ -57,5 +57,6 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/burak.senturkkk)
   [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/burak_senturkk)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:buraak.senturk@gmail.com)
+  [![CodePen](https://img.shields.io/badge/-CodePen-333333?style=flat&logo=codepen)](https://codepen.io/Buraksenturk)
 
 ⭐️ From [buraaksenturk](https://github.com/buraaksenturk)
