@@ -57,6 +57,6 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/burak.senturkkk)
   [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/burak_senturkk)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:buraak.senturk@gmail.com)
-  [![CodePen](https://img.shields.io/badge/-CodePen-333333?style=flat&logo=codepen)](https://codepen.io/Buraksenturk)
+  [![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=codepen)](https://codepen.io/Buraksenturk)
 
 ⭐️ From [buraaksenturk](https://github.com/buraaksenturk)
