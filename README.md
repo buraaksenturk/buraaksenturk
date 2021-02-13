@@ -47,7 +47,7 @@
 
 <a href="https://github.com/buraaksenturk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buraaksenturk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraaksenturk&theme=buefy&layout=compact&bg_color=151515&text_color=daf7df" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraaksenturk&theme=buefy&layout=compact&bg_color=151515&text_color=daf7dc" />
 </a>
 
 <br/>
