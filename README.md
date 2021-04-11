@@ -53,7 +53,7 @@
 
 <br/>
 
-### 📫 &nbsp;Connect with Me
+### 📫 &nbsp;Contact with Me
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buraaksenturk/)
   [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/burak.senturkkk)
   [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/burak_senturkk)
