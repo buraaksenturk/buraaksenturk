@@ -55,8 +55,7 @@
 
 ### 📫 &nbsp;Contact with Me
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buraaksenturk/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/burak.senturkkk)
-  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/burak_senturkk)
+  [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://buraaksenturk.medium.com)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:buraak.senturk@gmail.com)
   [![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=codepen)](https://codepen.io/Buraksenturk)
 
